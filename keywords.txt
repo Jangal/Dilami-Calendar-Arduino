@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map DilamiCalendar
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DilamiCalendar	KEYWORD1	DilamiCalendar
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+getDilamiYear	KEYWORD2
+getDilamiMonth	KEYWORD2
+getDilamiDay	KEYWORD2
+isLeap	KEYWORD2
+getJalaliYear	KEYWORD2
+getJalaliMonth	KEYWORD2
+getJalaliDay	KEYWORD2
+setDilamiYear	KEYWORD2
+setDilamiMonth	KEYWORD2
+setDilamiDay	KEYWORD2
+setJalaliYear	KEYWORD2
+setJalaliMonth	KEYWORD2
+setJalaliDay	KEYWORD2
+setDilamiDate	KEYWORD2
+setJalaliDate	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
