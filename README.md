@@ -7,6 +7,8 @@ Arduino library to convert Dilami date to Jalali and vice versa. Based on [C++ D
 <br/>
 [Python Dilami Calendar](https://github.com/Jangal/python-dilami-calendar)
 <br/>
+[PHP Dilami Calendar](https://github.com/Jangal/php-dilami-calendar)
+<br/>
 [.Net Dilami Calendar](https://github.com/Jangal/Dilami-Calendar-.Net)
 <br/>
 [تقویم دیلمی](http://giltime.ir)
